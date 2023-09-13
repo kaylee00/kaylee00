@@ -1,10 +1,11 @@
-### Hello world,
+### Hello world <3
 
-My name is Kaylee (she/her), and I'm a PhD student at the Columbia Journalism School. 
-
-Broadly speaking, I study political communication, public opinion, and media effects.
-
-I'm in the process of learning the fundamentals of Python for web scraping and text analysis so that I can analyze large numbers of news articles and social media posts, particularly on Instagram. I'm a coding n00b, but very excited to incorporate data science into my dissertation.
+- My name is Kaylee (she/her).
+- I'm a PhD student at the Columbia Journalism School.
+- I study political communication and media effects, particularly related to social media and journalism.
+- I use R for performing statistical analysis, mostly of public opinion data. 
+- I'm currently learning to use Python for web scraping and text analysis.
+- If you see nonsensical code on my portfolio, it's because I'm a n00b and I'm using a lot of training datasets 😄 
 
 <!--
 **kaylee00/kaylee00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
